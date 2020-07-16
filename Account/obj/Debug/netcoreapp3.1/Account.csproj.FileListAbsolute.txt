@@ -1,0 +1,164 @@
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.exe
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.pdb
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.RazorTargetAssemblyInfo.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\staticwebassets\Account.StaticWebAssets.Manifest.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\staticwebassets\Account.StaticWebAssets.xml
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.pdb
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csproj.CopyComplete
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+D:\Дима\Проекты программирование\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.MvcApplicationPartsAssemblyInfo.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.exe
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.deps.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.runtimeconfig.dev.json
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Account.pdb
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\EntityFramework.SqlServer.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\EntityFramework.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Bcl.HashCode.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Data.Sqlite.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.DotNet.PlatformAbstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Relational.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.EntityFrameworkCore.Sqlite.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Abstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Caching.Memory.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Configuration.Binder.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.DependencyModel.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Options.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\Microsoft.Extensions.Primitives.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.batteries_v2.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.nativelibrary.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.core.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\SQLitePCLRaw.provider.dynamic_cdecl.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.CodeDom.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Collections.Immutable.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Configuration.ConfigurationManager.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Data.SQLite.EF6.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Diagnostics.DiagnosticSource.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Security.Cryptography.ProtectedData.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\System.Text.Json.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\alpine-x64\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-arm\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-arm64\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-armel\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-musl-x64\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x86\native\libe_sqlite3.so
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\libe_sqlite3.dylib
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\e_sqlite3.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\e_sqlite3.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\e_sqlite3.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\e_sqlite3.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csprojAssemblyReference.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfoInputs.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.AssemblyInfo.cs
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csproj.CoreCompileInputs.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.MvcApplicationPartsAssemblyInfo.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.RazorTargetAssemblyInfo.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.csproj.CopyComplete
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\staticwebassets\Account.StaticWebAssets.Manifest.cache
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\staticwebassets\Account.StaticWebAssets.xml
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.dll
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.pdb
+D:\Дима\Программы\Github\StepikCourses\winFormsSQLite\Account\obj\Debug\netcoreapp3.1\Account.genruntimeconfig.cache
