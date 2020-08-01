@@ -3,9 +3,6 @@ using System.ComponentModel.DataAnnotations;
 
 namespace Account.Model
 {
-    /// <summary>
-    /// Модель, описывающая таблицу Транзакции
-    /// </summary>
     public class Transaction
     {
         public int Id { get; set; }

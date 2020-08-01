@@ -33,9 +33,9 @@ namespace Account.Controllers
 
         // GET: cost/{id}
         [HttpGet("{id}")] // Получение расхода по Id
-        public IQueryable<UserTransaction> GetOne(int id)
+        public UserTransaction GetOne(int id)
         {
-            return repos.GetOne(id);
+            return repos.GetOneTransaction(id);
         }
 
         // POST: cost
@@ -47,8 +47,8 @@ namespace Account.Controllers
             {
                 return BadRequest();
             }
-            repos.Add(transaction);
-            return Ok(transaction);
+            repos.AddTransaction(transaction);
+            return Ok(repos.GetLastCost());
         }
 
         // PUT: cost
@@ -64,7 +64,7 @@ namespace Account.Controllers
             {
                 return NotFound();
             }
-            repos.Update(transaction);
+            repos.UpdateTransaction(transaction);
             return Ok(transaction);
         }
     }

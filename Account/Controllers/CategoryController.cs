@@ -4,7 +4,7 @@ using Account.Model;
 using Microsoft.AspNetCore.Mvc;
 
 namespace Account.Controllers
-{ 
+{
     /// <summary>
     /// Класс контроллера операций с категориями
     /// </summary>
@@ -21,6 +21,12 @@ namespace Account.Controllers
             return context.Categories.ToList();
         }
 
+        [HttpGet("{id}")]
+        public Category GetOne(int id)
+        {
+            return context.Categories.Find(id);
+        }
+
         // POST: category
         [HttpPost]
         public ActionResult<Category> Post(Category category)
@@ -31,7 +37,9 @@ namespace Account.Controllers
             }
             context.Categories.Add(category);
             context.SaveChanges();
-            return Ok(category);
+            int idNewCategory = context.Categories.Max(c => c.Id);
+            Category newCategory = context.Categories.Find(idNewCategory);
+            return Ok(newCategory);
         }
 
         // PUT: category

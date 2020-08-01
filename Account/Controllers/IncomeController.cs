@@ -27,14 +27,14 @@ namespace Account.Controllers
         {
             string periodStart = id.Split('&')[0];
             string periodStop = id.Split('&')[1];
-            return repos.GetIncomeByCategory(periodStart, periodStop);
+            return repos.GetIncomeByCategoryAndPeriod(periodStart, periodStop);
         }
 
         // GET: income/{id}
         [HttpGet("{id}")] // Получение дохода по Id
-        public IQueryable<UserTransaction> GetOne(int id)
+        public UserTransaction GetOne(int id)
         {
-            return repos.GetOne(id);
+            return repos.GetOneTransaction(id);
         }
 
         // POST: income
@@ -46,8 +46,8 @@ namespace Account.Controllers
             {
                 return BadRequest();
             }
-            repos.Add(transaction);
-            return Ok(transaction);
+            repos.AddTransaction(transaction);
+            return Ok(repos.GetLastIncome());
         }
 
         // PUT: income
@@ -63,7 +63,7 @@ namespace Account.Controllers
             {
                 return NotFound();
             }
-            repos.Update(transaction);
+            repos.UpdateTransaction(transaction);
             return Ok(transaction);
         }
     }
